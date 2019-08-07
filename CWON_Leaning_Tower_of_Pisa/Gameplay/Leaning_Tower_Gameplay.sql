@@ -52,7 +52,7 @@ INSERT INTO ModifierArguments (ModifierId, Name, Value) VALUES ('LEANING_TOWER_E
 INSERT INTO BuildingModifiers (BuildingType, ModifierId) VALUES ('BUILDING_LEANING_TOWER', 'LEANING_TOWER_ENHANCEDLATETOURISM');
 
 
--- Harbors get +1.5 Gold from adjacent Districts
+-- Harbors receive +1.5 Gold from each adjacent District.
 INSERT INTO Modifiers (ModifierId, ModifierType) VALUES ('LEANING_TOWER_HARBOR_DISTRICT_GOLD', 'MODIFIER_PLAYER_CITIES_DISTRICT_ADJACENCY');
 
 INSERT INTO ModifierArguments (ModifierId, Name, Value) VALUES ('LEANING_TOWER_HARBOR_DISTRICT_GOLD', 'DistrictType', 'DISTRICT_HARBOR');
