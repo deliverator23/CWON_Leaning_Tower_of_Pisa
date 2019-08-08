@@ -280,7 +280,7 @@
 						<m_Name text="LT_WON"/>
 						<m_BoneName text="WON_Bone"/>
 						<m_ModelInstanceName text="WON_Dummy"/>
-						<m_scale>4.5</m_scale>
+						<m_scale>1</m_scale>
 					</Element>
 					<Element>
 						<m_CookParams>
@@ -328,7 +328,7 @@
 						<m_Name text="LT_HB"/>
 						<m_BoneName text="HB_Bone"/>
 						<m_ModelInstanceName text="WON_Dummy"/>
-						<m_scale>4.5</m_scale>
+						<m_scale>1</m_scale>
 					</Element>
 					<Element>
 						<m_CookParams>

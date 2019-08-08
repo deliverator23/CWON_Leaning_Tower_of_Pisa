@@ -8,7 +8,7 @@
                 <m_ParamName text="BaseColor"/>
             </Element>
             <Element class="AssetObjects..ObjectValue">
-                <m_ObjectName text="Flat_Normal"/>
+                <m_ObjectName text="Flat_Normal_v2"/>
                 <m_eObjectType>TEXTURE</m_eObjectType>
                 <m_ParamName text="Normal"/>
             </Element>
@@ -48,9 +48,9 @@
         <build>196</build>
         <revision>959</revision>
     </m_Version>
-    <m_ClassName text="Leaning_tower_DIFF"/>
+    <m_ClassName text="Landmark"/>
     <m_DataFiles/>
-    <m_Name text="Landmark"/>
+    <m_Name text="Leaning_tower_DIFF"/>
     <m_Description text=""/>
     <m_Tags>
         <Element text="Landmark"/>

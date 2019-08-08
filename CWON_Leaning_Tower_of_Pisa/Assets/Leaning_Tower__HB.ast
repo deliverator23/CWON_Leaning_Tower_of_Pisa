@@ -41,7 +41,35 @@
                         </m_Values>
                         <m_GroupName text="Leaning_tower_HB_DIFF"/>
                         <m_MeshName text="Leaning_tower_HB"/>
-                        <m_StateName text="Default"/>
+                        <m_StateName text="Worked"/>
+                    </Element>
+                    <Element>
+                        <m_Values>
+                            <m_Values>
+                                <Element class="AssetObjects:ObjectValue">
+                                    <m_ObjectName text="Leaning_tower_HB_DIFF"/>
+                                    <m_eObjectType>MATERIAL</m_eObjectType>
+                                    <m_ParamName text="Material"/>
+                                </Element>
+                            </m_Values>
+                        </m_Values>
+                        <m_GroupName text="Leaning_tower_HB_DIFF"/>
+                        <m_MeshName text="Leaning_tower_HB"/>
+                        <m_StateName text="Unworked"/>
+                    </Element>
+                    <Element>
+                        <m_Values>
+                            <m_Values>
+                                <Element class="AssetObjects:ObjectValue">
+                                    <m_ObjectName text="Leaning_tower_HB_DIFF"/>
+                                    <m_eObjectType>MATERIAL</m_eObjectType>
+                                    <m_ParamName text="Material"/>
+                                </Element>
+                            </m_Values>
+                        </m_Values>
+                        <m_GroupName text="Leaning_tower_HB_DIFF"/>
+                        <m_MeshName text="Leaning_tower_HB"/>
+                        <m_StateName text="Pillaged"/>
                     </Element>
                 </m_GroupStates>
             </Element>
@@ -61,7 +89,35 @@
                         </m_Values>
                         <m_GroupName text="Leaning_tower_HB_grnd_DIFF"/>
                         <m_MeshName text="Plane01_HB"/>
-                        <m_StateName text="Default"/>
+                        <m_StateName text="Worked"/>
+                    </Element>
+                    <Element>
+                        <m_Values>
+                            <m_Values>
+                                <Element class="AssetObjects:ObjectValue">
+                                    <m_ObjectName text="Leaning_tower_HB_grnd_DIFF"/>
+                                    <m_eObjectType>MATERIAL</m_eObjectType>
+                                    <m_ParamName text="Material"/>
+                                </Element>
+                            </m_Values>
+                        </m_Values>
+                        <m_GroupName text="Leaning_tower_HB_grnd_DIFF"/>
+                        <m_MeshName text="Plane01_HB"/>
+                        <m_StateName text="Unworked"/>
+                    </Element>
+                    <Element>
+                        <m_Values>
+                            <m_Values>
+                                <Element class="AssetObjects:ObjectValue">
+                                    <m_ObjectName text="Leaning_tower_HB_grnd_DIFF"/>
+                                    <m_eObjectType>MATERIAL</m_eObjectType>
+                                    <m_ParamName text="Material"/>
+                                </Element>
+                            </m_Values>
+                        </m_Values>
+                        <m_GroupName text="Leaning_tower_HB_grnd_DIFF"/>
+                        <m_MeshName text="Plane01_HB"/>
+                        <m_StateName text="Pillaged"/>
                     </Element>
                 </m_GroupStates>
             </Element>
