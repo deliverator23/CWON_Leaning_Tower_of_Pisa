@@ -17,6 +17,10 @@
             <m_EntryID text="Leaning_Tower__HB"/>
             <m_ObjectName text="Leaning_Tower__HB"/>
         </Element>
+        <Element>
+            <m_EntryID text="PROP_Crane_LG_Construction_Anim"/>
+            <m_ObjectName text="PROP_Crane_LG_Construction_Anim"/>
+        </Element>
     </m_Entries>
     <m_AllowedPlatforms>
         <Element>WINDOWS</Element>

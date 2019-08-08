@@ -18,7 +18,7 @@
 					</Element>
 					<Element>
 						<m_SlotName text="REVEAL_A"/>
-						<m_AnimationName text="WON_Hagia_Sophia_Movie"/>
+						<m_AnimationName text="Eiffel_Animation"/>
 					</Element>
 				</m_Bindings>
 			</m_animationBindings>
@@ -47,7 +47,7 @@
 					<Element>
 						<m_Name text="REVEAL_A"/>
 						<m_Description text=""/>
-						<m_AnimationName text="WON_Hagia_Sophia_Movie"/>
+						<m_AnimationName text="Eiffel_Animation"/>
 						<m_fDuration>0.000000</m_fDuration>
 						<m_Triggers>
 							<Element>
@@ -1109,8 +1109,8 @@
 	<m_GeometrySet>
 		<m_ModelInstances>
 			<Element>
-				<m_Name text="WON_Hagia_Sophia_Movie_Camera"/>
-				<m_GeoName text="WON_Hagia_Sophia_Movie_Camera"/>
+				<m_Name text="Eiffel_Camera"/>
+				<m_GeoName text="Eiffel_Camera"/>
 				<m_GroupStates/>
 			</Element>
 			<Element>
