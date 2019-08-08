@@ -5,13 +5,13 @@
 			<Text>Leaning Tower of Pisa</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_LEANING_TOWER_DESCRIPTION" Language="en_US">
-			<Text>Harbors receive +1.5 Gold from each adjacent District. +25% combat experience for all Naval units trained in this city. +1 Trade Route. +100% Tourism pressure from this city towards other civilizations starting from the Modern Era.</Text>
+			<Text>Harbors receive +1.5 Gold from each adjacent District. +25% combat experience for all Naval units trained in this city. +1 Trade Route. +100% Tourism pressure from this city towards other civilizations starting from the Modern Era. Requires Harbor and must be built next to City Center.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_LEANING_TOWER_QUOTE" Language="en_US">
 			<Text>"Nature is relentless and unchangeable, and it is indifferent as to whether its hidden reasons and actions are understandable to man or not."[NEWLINE]- Galileo Galilei</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_LEANING_TOWER_CHAPTER_HISTORY_PARA_1" Language="en_US">
-			<Text>The Leaning Tower of Pisa is the campanile, or freestanding bell tower, of the cathedral of the Italian city of Pisa, known worldwide for its nearly four-degree lean, the result of an unstable foundation. The tower is situated behind the Pisa Cathedral and is the third-oldest structure in the city's Cathedral Square (Piazza del Duomo), after the cathedral and the Pisa Baptistry. Requires Harbor and must be built next to City Center.</Text>
+			<Text>The Leaning Tower of Pisa is the campanile, or freestanding bell tower, of the cathedral of the Italian city of Pisa, known worldwide for its nearly four-degree lean, the result of an unstable foundation. The tower is situated behind the Pisa Cathedral and is the third-oldest structure in the city's Cathedral Square (Piazza del Duomo), after the cathedral and the Pisa Baptistry.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_LEANING_TOWER_CHAPTER_HISTORY_PARA_2" Language="en_US">
 			<Text>The tower's tilt began during construction in the 12th century, due to soft ground on one side, which was unable to properly support the structure's weight. The tilt increased in the decades before the structure was completed in the 14th century. It gradually increased until the structure was stabilized (and the tilt partially corrected) by efforts in the late 20th and early 21st centuries.</Text>
