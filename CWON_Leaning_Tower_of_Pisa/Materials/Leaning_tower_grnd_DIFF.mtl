@@ -1,27 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <AssetObjects..MaterialInstance>
-    <m_Values>
-        <Element class="AssetObjects..ObjectValue">
-            <m_ObjectName text="leaning_tower_grnd_diff"/>
-            <m_eObjectType>TEXTURE</m_eObjectType>
-            <m_ParamName text="BaseColor"/>
-        </Element>
-        <Element class="AssetObjects..ObjectValue">
-            <m_ObjectName text="leaning_tower_decal_heightmap"/>
-            <m_eObjectType>TEXTURE</m_eObjectType>
-            <m_ParamName text="Heightmap"/>
-        </Element>
-        <Element class="AssetObjects..ObjectValue">
-            <m_ObjectName text=""/>
-            <m_eObjectType>TEXTURE</m_eObjectType>
-            <m_ParamName text="Spec"/>
-        </Element>
-        <Element class="AssetObjects..ObjectValue">
-            <m_ObjectName text=""/>
-            <m_eObjectType>TEXTURE</m_eObjectType>
-            <m_ParamName text="FOWColor"/>
-        </Element>
-    </m_Values>
+    <m_CookParams>
+        <m_Values>
+            <Element class="AssetObjects..ObjectValue">
+                <m_ObjectName text="leaning_tower_grnd_diff_512"/>
+                <m_eObjectType>TEXTURE</m_eObjectType>
+                <m_ParamName text="BaseColor"/>
+            </Element>
+        </m_Values>
+    </m_CookParams>
     <m_Version>
         <major>3</major>
         <minor>0</minor>

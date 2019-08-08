@@ -11,10 +11,10 @@
     </m_Version>
     <m_Meshes>
         <Element>
-            <m_Name text="Plane01_HB"/>
+            <m_Name text="Plane01"/>
             <m_Groups>
                 <Element>
-                    <m_Name text="Leaning_tower_HB_grnd_DIFF"/>
+                    <m_Name text="Leaning_tower_grnd_DIFF.dds"/>
                     <m_nFirstPrim>0</m_nFirstPrim>
                     <m_nPrims>72</m_nPrims>
                 </Element>
@@ -25,10 +25,9 @@
         </Element>
     </m_Meshes>
     <m_Bones>
-        <Element text="CN6_ADJUSTMENT_BONE_1"/>
-        <Element text="Plane01_HB"/>
+        <Element text="Plane01"/>
     </m_Bones>
-    <m_ModelName text="Plane01_HB"/>
+    <m_ModelName text="Plane01"/>
     <m_SourceFilePath text=""/>
     <m_SourceObjectName text=""/>
     <m_ImportedTime>0</m_ImportedTime>
@@ -37,11 +36,11 @@
     <m_DataFiles>
         <Element>
             <m_ID text="GR2"/>
-            <m_RelativePath text="leaning_tower__plane01_hb.fgx"/>
+            <m_RelativePath text="leaning_tower__Plane01.fgx"/>
         </Element>
     </m_DataFiles>
-    <m_Name text="leaning_tower__plane01_hb"/>
-    <m_Description text="leaning_tower__plane01_hb"/>
+    <m_Name text="leaning_tower__Plane01"/>
+    <m_Description text="leaning_tower__Plane01"/>
     <m_Tags>
         <Element text="DecalGeometry"/>
     </m_Tags>

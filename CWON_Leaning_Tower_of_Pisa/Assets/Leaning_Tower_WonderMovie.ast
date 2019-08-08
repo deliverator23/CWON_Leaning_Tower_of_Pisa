@@ -54,7 +54,7 @@
 								<m_eType>SOUND</m_eType>
 								<m_Name text="1"/>
 								<m_Description text=""/>
-								<m_FXName text="Play_Wonder_Music_OxfordUniversity"/>
+								<m_FXName text="Play_Wonder_Music_CristoRedentory"/>
 								<m_CollectionName text=""/>
 								<m_AttachmentPointName text=""/>
 								<m_fStartTime>0.000000</m_fStartTime>
@@ -275,12 +275,12 @@
 						<m_orientation>
 							<x>0.000000</x>
 							<y>0.000000</y>
-							<z>0.000000</z>
+							<z>-1.570796</z>
 						</m_orientation>
 						<m_Name text="LT_WON"/>
 						<m_BoneName text="WON_Bone"/>
 						<m_ModelInstanceName text="WON_Dummy"/>
-						<m_scale>1</m_scale>
+						<m_scale>4.500000</m_scale>
 					</Element>
 					<Element>
 						<m_CookParams>
@@ -323,12 +323,12 @@
 						<m_orientation>
 							<x>0.000000</x>
 							<y>0.000000</y>
-							<z>0.000000</z>
+							<z>-1.570796</z>
 						</m_orientation>
 						<m_Name text="LT_HB"/>
 						<m_BoneName text="HB_Bone"/>
 						<m_ModelInstanceName text="WON_Dummy"/>
-						<m_scale>1</m_scale>
+						<m_scale>4.500000</m_scale>
 					</Element>
 					<Element>
 						<m_CookParams>
@@ -589,48 +589,24 @@
 									<m_Value text="OPTIONAL"/>
 									<m_ParamName text="Cull Mode"/>
 								</Element>
-							</m_Values>
-						</m_CookParams>
-						<m_position>
-							<x>15.688845</x>
-							<y>-1.360831</y>
-							<z>0</z>
-						</m_position>
-						<m_orientation>
-							<x>0.000000</x>
-							<y>0.000000</y>
-							<z>1.115449</z>
-						</m_orientation>
-						<m_Name text="Foliage101"/>
-						<m_BoneName text="WON_Bone"/>
-						<m_ModelInstanceName text="WON_Dummy"/>
-						<m_scale>0.75</m_scale>
-					</Element>
-					<Element>
-						<m_CookParams>
-							<m_Values>
-								<Element class="AssetObjects..BLPEntryValue">
-									<m_EntryName text="Tree_C_Lg_Dirt"/>
-									<m_XLPClass text="TileBase"/>
-									<m_XLPPath text="tilebases.xlp"/>
-									<m_BLPPackage text="landmarks/tilebases"/>
-									<m_LibraryName text="TileBase"/>
-									<m_ParamName text="Asset"/>
-								</Element>
 								<Element class="AssetObjects..StringValue">
-									<m_Value text="Pivot Height"/>
-									<m_ParamName text="TerrainFollowMode"/>
+									<m_Value text="NONE"/>
+									<m_ParamName text="ConnectionType"/>
 								</Element>
-								<Element class="AssetObjects..StringValue">
-									<m_Value text="OPTIONAL"/>
-									<m_ParamName text="Cull Mode"/>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="DON'T CARE"/>
+									<m_RootCollectionName text="ResourceTags"/>
+									<m_ArtDefPath text=""/>
+									<m_CollectionIsLocked>false</m_CollectionIsLocked>
+									<m_TemplateName text=""/>
+									<m_ParamName text="ResourceType"/>
 								</Element>
 							</m_Values>
 						</m_CookParams>
 						<m_position>
-							<x>14.870430</x>
-							<y>-5.297625</y>
-							<z>0</z>
+							<x>14.364764</x>
+							<y>-5.949289</y>
+							<z>-0.000000</z>
 						</m_position>
 						<m_orientation>
 							<x>0.000000</x>
@@ -640,7 +616,7 @@
 						<m_Name text="Foliage102"/>
 						<m_BoneName text="WON_Bone"/>
 						<m_ModelInstanceName text="WON_Dummy"/>
-						<m_scale>0.75</m_scale>
+						<m_scale>1.000000</m_scale>
 					</Element>
 					<Element>
 						<m_CookParams>
@@ -661,228 +637,24 @@
 									<m_Value text="OPTIONAL"/>
 									<m_ParamName text="Cull Mode"/>
 								</Element>
-							</m_Values>
-						</m_CookParams>
-						<m_position>
-							<x>12.919230</x>
-							<y>-8.921475</y>
-							<z>0</z>
-						</m_position>
-						<m_orientation>
-							<x>0.000000</x>
-							<y>0.000000</y>
-							<z>0.822897</z>
-						</m_orientation>
-						<m_Name text="Foliage103"/>
-						<m_BoneName text="WON_Bone"/>
-						<m_ModelInstanceName text="WON_Dummy"/>
-						<m_scale>0.75</m_scale>
-					</Element>
-					<Element>
-						<m_CookParams>
-							<m_Values>
-								<Element class="AssetObjects..BLPEntryValue">
-									<m_EntryName text="Tree_C_Lg_Dirt"/>
-									<m_XLPClass text="TileBase"/>
-									<m_XLPPath text="tilebases.xlp"/>
-									<m_BLPPackage text="landmarks/tilebases"/>
-									<m_LibraryName text="TileBase"/>
-									<m_ParamName text="Asset"/>
-								</Element>
 								<Element class="AssetObjects..StringValue">
-									<m_Value text="Pivot Height"/>
-									<m_ParamName text="TerrainFollowMode"/>
+									<m_Value text="NONE"/>
+									<m_ParamName text="ConnectionType"/>
 								</Element>
-								<Element class="AssetObjects..StringValue">
-									<m_Value text="OPTIONAL"/>
-									<m_ParamName text="Cull Mode"/>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="DON'T CARE"/>
+									<m_RootCollectionName text="ResourceTags"/>
+									<m_ArtDefPath text=""/>
+									<m_CollectionIsLocked>false</m_CollectionIsLocked>
+									<m_TemplateName text=""/>
+									<m_ParamName text="ResourceType"/>
 								</Element>
 							</m_Values>
 						</m_CookParams>
 						<m_position>
-							<x>6.569640</x>
-							<y>-14.347845</y>
-							<z>0</z>
-						</m_position>
-						<m_orientation>
-							<x>0.000000</x>
-							<y>0.000000</y>
-							<z>2.895316</z>
-						</m_orientation>
-						<m_Name text="Foliage104"/>
-						<m_BoneName text="WON_Bone"/>
-						<m_ModelInstanceName text="WON_Dummy"/>
-						<m_scale>0.75</m_scale>
-					</Element>
-					<Element>
-						<m_CookParams>
-							<m_Values>
-								<Element class="AssetObjects..BLPEntryValue">
-									<m_EntryName text="Tree_C_Lg_Dirt"/>
-									<m_XLPClass text="TileBase"/>
-									<m_XLPPath text="tilebases.xlp"/>
-									<m_BLPPackage text="landmarks/tilebases"/>
-									<m_LibraryName text="TileBase"/>
-									<m_ParamName text="Asset"/>
-								</Element>
-								<Element class="AssetObjects..StringValue">
-									<m_Value text="Pivot Height"/>
-									<m_ParamName text="TerrainFollowMode"/>
-								</Element>
-								<Element class="AssetObjects..StringValue">
-									<m_Value text="OPTIONAL"/>
-									<m_ParamName text="Cull Mode"/>
-								</Element>
-							</m_Values>
-						</m_CookParams>
-						<m_position>
-							<x>4.478436</x>
-							<y>-19.108620</y>
-							<z>0</z>
-						</m_position>
-						<m_orientation>
-							<x>0.000000</x>
-							<y>0.000000</y>
-							<z>1.206463</z>
-						</m_orientation>
-						<m_Name text="Foliage105"/>
-						<m_BoneName text="WON_Bone"/>
-						<m_ModelInstanceName text="WON_Dummy"/>
-						<m_scale>0.75</m_scale>
-					</Element>
-					<Element>
-						<m_CookParams>
-							<m_Values>
-								<Element class="AssetObjects..BLPEntryValue">
-									<m_EntryName text="Tree_C_Lg_Dirt"/>
-									<m_XLPClass text="TileBase"/>
-									<m_XLPPath text="tilebases.xlp"/>
-									<m_BLPPackage text="landmarks/tilebases"/>
-									<m_LibraryName text="TileBase"/>
-									<m_ParamName text="Asset"/>
-								</Element>
-								<Element class="AssetObjects..StringValue">
-									<m_Value text="Pivot Height"/>
-									<m_ParamName text="TerrainFollowMode"/>
-								</Element>
-								<Element class="AssetObjects..StringValue">
-									<m_Value text="OPTIONAL"/>
-									<m_ParamName text="Cull Mode"/>
-								</Element>
-							</m_Values>
-						</m_CookParams>
-						<m_position>
-							<x>1.827792</x>
-							<y>-19.585800</y>
-							<z>0</z>
-						</m_position>
-						<m_orientation>
-							<x>0.000000</x>
-							<y>0.000000</y>
-							<z>2.149146</z>
-						</m_orientation>
-						<m_Name text="Foliage106"/>
-						<m_BoneName text="WON_Bone"/>
-						<m_ModelInstanceName text="WON_Dummy"/>
-						<m_scale>0.75</m_scale>
-					</Element>
-					<Element>
-						<m_CookParams>
-							<m_Values>
-								<Element class="AssetObjects..BLPEntryValue">
-									<m_EntryName text="Tree_C_Lg_Dirt"/>
-									<m_XLPClass text="TileBase"/>
-									<m_XLPPath text="tilebases.xlp"/>
-									<m_BLPPackage text="landmarks/tilebases"/>
-									<m_LibraryName text="TileBase"/>
-									<m_ParamName text="Asset"/>
-								</Element>
-								<Element class="AssetObjects..StringValue">
-									<m_Value text="Pivot Height"/>
-									<m_ParamName text="TerrainFollowMode"/>
-								</Element>
-								<Element class="AssetObjects..StringValue">
-									<m_Value text="OPTIONAL"/>
-									<m_ParamName text="Cull Mode"/>
-								</Element>
-							</m_Values>
-						</m_CookParams>
-						<m_position>
-							<x>-1.746085</x>
-							<y>-16.139340</y>
-							<z>0</z>
-						</m_position>
-						<m_orientation>
-							<x>0.000000</x>
-							<y>0.000000</y>
-							<z>0.993612</z>
-						</m_orientation>
-						<m_Name text="Foliage107"/>
-						<m_BoneName text="WON_Bone"/>
-						<m_ModelInstanceName text="WON_Dummy"/>
-						<m_scale>0.75</m_scale>
-					</Element>
-					<Element>
-						<m_CookParams>
-							<m_Values>
-								<Element class="AssetObjects..BLPEntryValue">
-									<m_EntryName text="Tree_C_Lg_Dirt"/>
-									<m_XLPClass text="TileBase"/>
-									<m_XLPPath text="tilebases.xlp"/>
-									<m_BLPPackage text="landmarks/tilebases"/>
-									<m_LibraryName text="TileBase"/>
-									<m_ParamName text="Asset"/>
-								</Element>
-								<Element class="AssetObjects..StringValue">
-									<m_Value text="Pivot Height"/>
-									<m_ParamName text="TerrainFollowMode"/>
-								</Element>
-								<Element class="AssetObjects..StringValue">
-									<m_Value text="OPTIONAL"/>
-									<m_ParamName text="Cull Mode"/>
-								</Element>
-							</m_Values>
-						</m_CookParams>
-						<m_position>
-							<x>-9.470700</x>
-							<y>-12.833325</y>
-							<z>0</z>
-						</m_position>
-						<m_orientation>
-							<x>0.000000</x>
-							<y>0.000000</y>
-							<z>1.132212</z>
-						</m_orientation>
-						<m_Name text="Foliage108"/>
-						<m_BoneName text="WON_Bone"/>
-						<m_ModelInstanceName text="WON_Dummy"/>
-						<m_scale>0.75</m_scale>
-					</Element>
-					<Element>
-						<m_CookParams>
-							<m_Values>
-								<Element class="AssetObjects..BLPEntryValue">
-									<m_EntryName text="Tree_C_Lg_Dirt"/>
-									<m_XLPClass text="TileBase"/>
-									<m_XLPPath text="tilebases.xlp"/>
-									<m_BLPPackage text="landmarks/tilebases"/>
-									<m_LibraryName text="TileBase"/>
-									<m_ParamName text="Asset"/>
-								</Element>
-								<Element class="AssetObjects..StringValue">
-									<m_Value text="Pivot Height"/>
-									<m_ParamName text="TerrainFollowMode"/>
-								</Element>
-								<Element class="AssetObjects..StringValue">
-									<m_Value text="OPTIONAL"/>
-									<m_ParamName text="Cull Mode"/>
-								</Element>
-							</m_Values>
-						</m_CookParams>
-						<m_position>
-							<x>-12.618675</x>
-							<y>-10.223640</y>
-							<z>0</z>
+							<x>5.368503</x>
+							<y>-11.769319</y>
+							<z>0.000000</z>
 						</m_position>
 						<m_orientation>
 							<x>0.000000</x>
@@ -892,7 +664,7 @@
 						<m_Name text="Foliage109"/>
 						<m_BoneName text="WON_Bone"/>
 						<m_ModelInstanceName text="WON_Dummy"/>
-						<m_scale>0.75</m_scale>
+						<m_scale>1.000000</m_scale>
 					</Element>
 					<Element>
 						<m_CookParams>
@@ -913,12 +685,24 @@
 									<m_Value text="OPTIONAL"/>
 									<m_ParamName text="Cull Mode"/>
 								</Element>
+								<Element class="AssetObjects..StringValue">
+									<m_Value text="NONE"/>
+									<m_ParamName text="ConnectionType"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="DON'T CARE"/>
+									<m_RootCollectionName text="ResourceTags"/>
+									<m_ArtDefPath text=""/>
+									<m_CollectionIsLocked>false</m_CollectionIsLocked>
+									<m_TemplateName text=""/>
+									<m_ParamName text="ResourceType"/>
+								</Element>
 							</m_Values>
 						</m_CookParams>
 						<m_position>
-							<x>-14.746230</x>
-							<y>-6.824115</y>
-							<z>0</z>
+							<x>10.452727</x>
+							<y>-8.863750</y>
+							<z>-0.000000</z>
 						</m_position>
 						<m_orientation>
 							<x>0.000000</x>
@@ -928,7 +712,7 @@
 						<m_Name text="Foliage110"/>
 						<m_BoneName text="WON_Bone"/>
 						<m_ModelInstanceName text="WON_Dummy"/>
-						<m_scale>0.75</m_scale>
+						<m_scale>1.000000</m_scale>
 					</Element>
 					<Element>
 						<m_CookParams>
@@ -949,48 +733,24 @@
 									<m_Value text="OPTIONAL"/>
 									<m_ParamName text="Cull Mode"/>
 								</Element>
-							</m_Values>
-						</m_CookParams>
-						<m_position>
-							<x>15.364665</x>
-							<y>3.398724</y>
-							<z>0</z>
-						</m_position>
-						<m_orientation>
-							<x>0.000000</x>
-							<y>0.000000</y>
-							<z>0.675355</z>
-						</m_orientation>
-						<m_Name text="Foliage111"/>
-						<m_BoneName text="WON_Bone"/>
-						<m_ModelInstanceName text="WON_Dummy"/>
-						<m_scale>0.75</m_scale>
-					</Element>
-					<Element>
-						<m_CookParams>
-							<m_Values>
-								<Element class="AssetObjects..BLPEntryValue">
-									<m_EntryName text="Tree_C_Lg_Dirt"/>
-									<m_XLPClass text="TileBase"/>
-									<m_XLPPath text="tilebases.xlp"/>
-									<m_BLPPackage text="landmarks/tilebases"/>
-									<m_LibraryName text="TileBase"/>
-									<m_ParamName text="Asset"/>
-								</Element>
 								<Element class="AssetObjects..StringValue">
-									<m_Value text="Pivot Height"/>
-									<m_ParamName text="TerrainFollowMode"/>
+									<m_Value text="NONE"/>
+									<m_ParamName text="ConnectionType"/>
 								</Element>
-								<Element class="AssetObjects..StringValue">
-									<m_Value text="OPTIONAL"/>
-									<m_ParamName text="Cull Mode"/>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="DON'T CARE"/>
+									<m_RootCollectionName text="ResourceTags"/>
+									<m_ArtDefPath text=""/>
+									<m_CollectionIsLocked>false</m_CollectionIsLocked>
+									<m_TemplateName text=""/>
+									<m_ParamName text="ResourceType"/>
 								</Element>
 							</m_Values>
 						</m_CookParams>
 						<m_position>
-							<x>14.150565</x>
-							<y>7.220925</y>
-							<z>0</z>
+							<x>13.235997</x>
+							<y>7.355040</y>
+							<z>-0.000000</z>
 						</m_position>
 						<m_orientation>
 							<x>0.000000</x>
@@ -1000,7 +760,7 @@
 						<m_Name text="Foliage112"/>
 						<m_BoneName text="WON_Bone"/>
 						<m_ModelInstanceName text="WON_Dummy"/>
-						<m_scale>0.75</m_scale>
+						<m_scale>1.000000</m_scale>
 					</Element>
 					<Element>
 						<m_CookParams>
@@ -1021,12 +781,24 @@
 									<m_Value text="OPTIONAL"/>
 									<m_ParamName text="Cull Mode"/>
 								</Element>
+								<Element class="AssetObjects..StringValue">
+									<m_Value text="NONE"/>
+									<m_ParamName text="ConnectionType"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="DON'T CARE"/>
+									<m_RootCollectionName text="ResourceTags"/>
+									<m_ArtDefPath text=""/>
+									<m_CollectionIsLocked>false</m_CollectionIsLocked>
+									<m_TemplateName text=""/>
+									<m_ParamName text="ResourceType"/>
+								</Element>
 							</m_Values>
 						</m_CookParams>
 						<m_position>
-							<x>11.751525</x>
-							<y>10.532205</y>
-							<z>0</z>
+							<x>9.525290</x>
+							<y>11.948311</y>
+							<z>0.000000</z>
 						</m_position>
 						<m_orientation>
 							<x>0.000000</x>
@@ -1036,7 +808,7 @@
 						<m_Name text="Foliage113"/>
 						<m_BoneName text="WON_Bone"/>
 						<m_ModelInstanceName text="WON_Dummy"/>
-						<m_scale>0.75</m_scale>
+						<m_scale>1.000000</m_scale>
 					</Element>
 					<Element>
 						<m_CookParams>
@@ -1057,12 +829,24 @@
 									<m_Value text="OPTIONAL"/>
 									<m_ParamName text="Cull Mode"/>
 								</Element>
+								<Element class="AssetObjects..StringValue">
+									<m_Value text="NONE"/>
+									<m_ParamName text="ConnectionType"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="DON'T CARE"/>
+									<m_RootCollectionName text="ResourceTags"/>
+									<m_ArtDefPath text=""/>
+									<m_CollectionIsLocked>false</m_CollectionIsLocked>
+									<m_TemplateName text=""/>
+									<m_ParamName text="ResourceType"/>
+								</Element>
 							</m_Values>
 						</m_CookParams>
 						<m_position>
-							<x>0.964341</x>
-							<y>16.546635</y>
-							<z>0</z>
+							<x>0.461981</x>
+							<y>13.989636</y>
+							<z>0.000000</z>
 						</m_position>
 						<m_orientation>
 							<x>0.000000</x>
@@ -1072,7 +856,7 @@
 						<m_Name text="Foliage114"/>
 						<m_BoneName text="WON_Bone"/>
 						<m_ModelInstanceName text="WON_Dummy"/>
-						<m_scale>0.75</m_scale>
+						<m_scale>1.000000</m_scale>
 					</Element>
 					<Element>
 						<m_CookParams>
@@ -1093,12 +877,24 @@
 									<m_Value text="OPTIONAL"/>
 									<m_ParamName text="Cull Mode"/>
 								</Element>
+								<Element class="AssetObjects..StringValue">
+									<m_Value text="NONE"/>
+									<m_ParamName text="ConnectionType"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="DON'T CARE"/>
+									<m_RootCollectionName text="ResourceTags"/>
+									<m_ArtDefPath text=""/>
+									<m_CollectionIsLocked>false</m_CollectionIsLocked>
+									<m_TemplateName text=""/>
+									<m_ParamName text="ResourceType"/>
+								</Element>
 							</m_Values>
 						</m_CookParams>
 						<m_position>
-							<x>-7.370865</x>
-							<y>14.848110</y>
-							<z>0</z>
+							<x>-4.816159</x>
+							<y>13.850503</y>
+							<z>-0.000000</z>
 						</m_position>
 						<m_orientation>
 							<x>0.000000</x>
@@ -1108,7 +904,7 @@
 						<m_Name text="Foliage115"/>
 						<m_BoneName text="WON_Bone"/>
 						<m_ModelInstanceName text="WON_Dummy"/>
-						<m_scale>0.75</m_scale>
+						<m_scale>1.000000</m_scale>
 					</Element>
 					<Element>
 						<m_CookParams>
@@ -1129,12 +925,24 @@
 									<m_Value text="OPTIONAL"/>
 									<m_ParamName text="Cull Mode"/>
 								</Element>
+								<Element class="AssetObjects..StringValue">
+									<m_Value text="NONE"/>
+									<m_ParamName text="ConnectionType"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="DON'T CARE"/>
+									<m_RootCollectionName text="ResourceTags"/>
+									<m_ArtDefPath text=""/>
+									<m_CollectionIsLocked>false</m_CollectionIsLocked>
+									<m_TemplateName text=""/>
+									<m_ParamName text="ResourceType"/>
+								</Element>
 							</m_Values>
 						</m_CookParams>
 						<m_position>
-							<x>-13.780620</x>
-							<y>9.492930</y>
-							<z>0</z>
+							<x>-14.827182</x>
+							<y>12.638491</y>
+							<z>-0.000000</z>
 						</m_position>
 						<m_orientation>
 							<x>0.000000</x>
@@ -1144,7 +952,7 @@
 						<m_Name text="Foliage116"/>
 						<m_BoneName text="WON_Bone"/>
 						<m_ModelInstanceName text="WON_Dummy"/>
-						<m_scale>0.75</m_scale>
+						<m_scale>1.000000</m_scale>
 					</Element>
 					<Element>
 						<m_CookParams>
@@ -1165,12 +973,24 @@
 									<m_Value text="OPTIONAL"/>
 									<m_ParamName text="Cull Mode"/>
 								</Element>
+								<Element class="AssetObjects..StringValue">
+									<m_Value text="NONE"/>
+									<m_ParamName text="ConnectionType"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="DON'T CARE"/>
+									<m_RootCollectionName text="ResourceTags"/>
+									<m_ArtDefPath text=""/>
+									<m_CollectionIsLocked>false</m_CollectionIsLocked>
+									<m_TemplateName text=""/>
+									<m_ParamName text="ResourceType"/>
+								</Element>
 							</m_Values>
 						</m_CookParams>
 						<m_position>
-							<x>-15.772140</x>
-							<y>5.891085</y>
-							<z>0</z>
+							<x>-15.141112</x>
+							<y>5.801492</y>
+							<z>-0.000000</z>
 						</m_position>
 						<m_orientation>
 							<x>0.000000</x>
@@ -1180,7 +1000,7 @@
 						<m_Name text="Foliage117"/>
 						<m_BoneName text="WON_Bone"/>
 						<m_ModelInstanceName text="WON_Dummy"/>
-						<m_scale>0.75</m_scale>
+						<m_scale>1.000000</m_scale>
 					</Element>
 					<Element>
 						<m_CookParams>
@@ -1201,12 +1021,24 @@
 									<m_Value text="OPTIONAL"/>
 									<m_ParamName text="Cull Mode"/>
 								</Element>
+								<Element class="AssetObjects..StringValue">
+									<m_Value text="NONE"/>
+									<m_ParamName text="ConnectionType"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="DON'T CARE"/>
+									<m_RootCollectionName text="ResourceTags"/>
+									<m_ArtDefPath text=""/>
+									<m_CollectionIsLocked>false</m_CollectionIsLocked>
+									<m_TemplateName text=""/>
+									<m_ParamName text="ResourceType"/>
+								</Element>
 							</m_Values>
 						</m_CookParams>
 						<m_position>
-							<x>-16.634475</x>
-							<y>1.963679</y>
-							<z>0</z>
+							<x>-19.149782</x>
+							<y>9.011018</y>
+							<z>-0.000000</z>
 						</m_position>
 						<m_orientation>
 							<x>0.000000</x>
@@ -1216,7 +1048,55 @@
 						<m_Name text="Foliage118"/>
 						<m_BoneName text="WON_Bone"/>
 						<m_ModelInstanceName text="WON_Dummy"/>
-						<m_scale>0.75</m_scale>
+						<m_scale>1.000000</m_scale>
+					</Element>
+					<Element>
+						<m_CookParams>
+							<m_Values>
+								<Element class="AssetObjects..BLPEntryValue">
+									<m_EntryName text="Tree_C_Lg_Dirt"/>
+									<m_XLPClass text="TileBase"/>
+									<m_XLPPath text="tilebases.xlp"/>
+									<m_BLPPackage text="landmarks/tilebases"/>
+									<m_LibraryName text="TileBase"/>
+									<m_ParamName text="Asset"/>
+								</Element>
+								<Element class="AssetObjects..StringValue">
+									<m_Value text="NONE"/>
+									<m_ParamName text="ConnectionType"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="DON'T CARE"/>
+									<m_RootCollectionName text="ResourceTags"/>
+									<m_ArtDefPath text=""/>
+									<m_CollectionIsLocked>false</m_CollectionIsLocked>
+									<m_TemplateName text=""/>
+									<m_ParamName text="ResourceType"/>
+								</Element>
+								<Element class="AssetObjects..StringValue">
+									<m_Value text="Pivot Height"/>
+									<m_ParamName text="TerrainFollowMode"/>
+								</Element>
+								<Element class="AssetObjects..StringValue">
+									<m_Value text="OPTIONAL"/>
+									<m_ParamName text="Cull Mode"/>
+								</Element>
+							</m_Values>
+						</m_CookParams>
+						<m_position>
+							<x>5.169872</x>
+							<y>13.648039</y>
+							<z>0.000000</z>
+						</m_position>
+						<m_orientation>
+							<x>0.000000</x>
+							<y>0.000000</y>
+							<z>2.471397</z>
+						</m_orientation>
+						<m_Name text="Foliage111"/>
+						<m_BoneName text="WON_Bone"/>
+						<m_ModelInstanceName text="WON_Dummy"/>
+						<m_scale>1.000000</m_scale>
 					</Element>
 				</m_Points>
 			</m_attachmentPoints>
@@ -1426,3 +1306,4 @@
 		<Element text="WonderMovie"/>
 	</m_Tags>
 </AssetObjects..AssetInstance>
+

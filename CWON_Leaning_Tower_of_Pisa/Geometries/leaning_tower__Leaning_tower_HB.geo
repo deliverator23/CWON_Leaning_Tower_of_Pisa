@@ -14,7 +14,7 @@
 <m_Name text="Leaning_tower_HB"/>
 <m_Groups>
 <Element>
-<m_Name text="Leaning_tower_HB_DIFF"/>
+<m_Name text="Leaning_tower_HB_DIFF.dds"/>
 <m_nFirstPrim>0</m_nFirstPrim>
 <m_nPrims>2102</m_nPrims>
 </Element>
@@ -25,7 +25,6 @@
 </Element>
 </m_Meshes>
 <m_Bones>
-<Element text="CN6_ADJUSTMENT_BONE_1"/>
 <Element text="Leaning_tower_HB"/>
 </m_Bones>
 <m_ModelName text="Leaning_tower_HB"/>
@@ -37,11 +36,11 @@
 <m_DataFiles>
 <Element>
 <m_ID text="GR2"/>
-<m_RelativePath text="leaning_tower__leaning_tower_hb.fgx"/>
+<m_RelativePath text="leaning_tower__Leaning_tower_HB.fgx"/>
 </Element>
 </m_DataFiles>
-<m_Name text="leaning_tower__leaning_tower_hb"/>
-<m_Description text="leaning_tower__leaning_tower_hb"/>
+<m_Name text="leaning_tower__Leaning_tower_HB"/>
+<m_Description text="leaning_tower__Leaning_tower_HB"/>
 <m_Tags>
 <Element text="LandmarkModel"/>
 </m_Tags>
