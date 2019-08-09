@@ -354,7 +354,7 @@
 									<m_ParamName text="ResourceType"/>
 								</Element>
 								<Element class="AssetObjects..StringValue">
-									<m_Value text="Pivot Height"/>
+									<m_Value text="None"/>
 									<m_ParamName text="TerrainFollowMode"/>
 								</Element>
 								<Element class="AssetObjects..StringValue">
@@ -374,7 +374,7 @@
 							<z>1.570796</z>
 						</m_orientation>
 						<m_Name text="PROP_Crane_LG_Anim_001"/>
-						<m_BoneName text="WON_Dummy"/>
+						<m_BoneName text="HB_Bone"/>
 						<m_ModelInstanceName text="WON_Dummy"/>
 						<m_scale>1.000000</m_scale>
 					</Element>
@@ -402,7 +402,7 @@
 									<m_ParamName text="ResourceType"/>
 								</Element>
 								<Element class="AssetObjects..StringValue">
-									<m_Value text="Pivot Height"/>
+									<m_Value text="None"/>
 									<m_ParamName text="TerrainFollowMode"/>
 								</Element>
 								<Element class="AssetObjects..StringValue">
@@ -422,7 +422,7 @@
 							<z>-1.221730</z>
 						</m_orientation>
 						<m_Name text="PROP_Crane_LG_Anim_002"/>
-						<m_BoneName text="WON_Dummy"/>
+						<m_BoneName text="HB_Bone"/>
 						<m_ModelInstanceName text="WON_Dummy"/>
 						<m_scale>1.000000</m_scale>
 					</Element>
