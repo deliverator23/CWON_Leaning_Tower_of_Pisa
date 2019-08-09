@@ -582,7 +582,7 @@
 									<m_ParamName text="Asset"/>
 								</Element>
 								<Element class="AssetObjects..StringValue">
-									<m_Value text="Pivot Height"/>
+									<m_Value text="None"/>
 									<m_ParamName text="TerrainFollowMode"/>
 								</Element>
 								<Element class="AssetObjects..StringValue">
@@ -630,7 +630,7 @@
 									<m_ParamName text="Asset"/>
 								</Element>
 								<Element class="AssetObjects..StringValue">
-									<m_Value text="Pivot Height"/>
+									<m_Value text="None"/>
 									<m_ParamName text="TerrainFollowMode"/>
 								</Element>
 								<Element class="AssetObjects..StringValue">
@@ -678,7 +678,7 @@
 									<m_ParamName text="Asset"/>
 								</Element>
 								<Element class="AssetObjects..StringValue">
-									<m_Value text="Pivot Height"/>
+									<m_Value text="None"/>
 									<m_ParamName text="TerrainFollowMode"/>
 								</Element>
 								<Element class="AssetObjects..StringValue">
@@ -726,7 +726,7 @@
 									<m_ParamName text="Asset"/>
 								</Element>
 								<Element class="AssetObjects..StringValue">
-									<m_Value text="Pivot Height"/>
+									<m_Value text="None"/>
 									<m_ParamName text="TerrainFollowMode"/>
 								</Element>
 								<Element class="AssetObjects..StringValue">
@@ -774,7 +774,7 @@
 									<m_ParamName text="Asset"/>
 								</Element>
 								<Element class="AssetObjects..StringValue">
-									<m_Value text="Pivot Height"/>
+									<m_Value text="None"/>
 									<m_ParamName text="TerrainFollowMode"/>
 								</Element>
 								<Element class="AssetObjects..StringValue">
@@ -822,7 +822,7 @@
 									<m_ParamName text="Asset"/>
 								</Element>
 								<Element class="AssetObjects..StringValue">
-									<m_Value text="Pivot Height"/>
+									<m_Value text="None"/>
 									<m_ParamName text="TerrainFollowMode"/>
 								</Element>
 								<Element class="AssetObjects..StringValue">
@@ -870,7 +870,7 @@
 									<m_ParamName text="Asset"/>
 								</Element>
 								<Element class="AssetObjects..StringValue">
-									<m_Value text="Pivot Height"/>
+									<m_Value text="None"/>
 									<m_ParamName text="TerrainFollowMode"/>
 								</Element>
 								<Element class="AssetObjects..StringValue">
@@ -918,7 +918,7 @@
 									<m_ParamName text="Asset"/>
 								</Element>
 								<Element class="AssetObjects..StringValue">
-									<m_Value text="Pivot Height"/>
+									<m_Value text="None"/>
 									<m_ParamName text="TerrainFollowMode"/>
 								</Element>
 								<Element class="AssetObjects..StringValue">
@@ -966,7 +966,7 @@
 									<m_ParamName text="Asset"/>
 								</Element>
 								<Element class="AssetObjects..StringValue">
-									<m_Value text="Pivot Height"/>
+									<m_Value text="None"/>
 									<m_ParamName text="TerrainFollowMode"/>
 								</Element>
 								<Element class="AssetObjects..StringValue">
@@ -1014,7 +1014,7 @@
 									<m_ParamName text="Asset"/>
 								</Element>
 								<Element class="AssetObjects..StringValue">
-									<m_Value text="Pivot Height"/>
+									<m_Value text="None"/>
 									<m_ParamName text="TerrainFollowMode"/>
 								</Element>
 								<Element class="AssetObjects..StringValue">
@@ -1074,7 +1074,7 @@
 									<m_ParamName text="ResourceType"/>
 								</Element>
 								<Element class="AssetObjects..StringValue">
-									<m_Value text="Pivot Height"/>
+									<m_Value text="None"/>
 									<m_ParamName text="TerrainFollowMode"/>
 								</Element>
 								<Element class="AssetObjects..StringValue">
