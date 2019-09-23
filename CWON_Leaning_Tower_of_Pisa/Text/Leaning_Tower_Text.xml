@@ -22,5 +22,8 @@
 		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_LEANING_TOWER_CHAPTER_HISTORY_PARA_4" Language="en_US">
 			<Text></Text>
 		</Row>
+		<Row Tag="LOC_BUILDING_LEANING_TOWER_HARBOR_DISTRICT_GOLD" Language="en_US">
+			<Text>+{1_num} [ICON_Gold] Gold from the adjacent {1_Num : plural 1?district; other?districts;}.</Text>
+		</Row>
 	</LocalizedText>
 </GameData>
