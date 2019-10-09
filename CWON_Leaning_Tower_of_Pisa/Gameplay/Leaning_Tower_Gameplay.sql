@@ -12,22 +12,6 @@ VALUES ('BUILDING_LEANING_TOWER', 'YIELD_CULTURE', 2),
       ('BUILDING_LEANING_TOWER', 'YIELD_FAITH', 1);
 
 
--- Great Person Points
-INSERT INTO Building_GreatPersonPoints (BuildingType, GreatPersonClassType, PointsPerTurn)
-VALUES ('BUILDING_LEANING_TOWER', 'GREAT_PERSON_CLASS_MERCHANT', '2');
-
-INSERT INTO Building_GreatPersonPoints (BuildingType, GreatPersonClassType, PointsPerTurn)
-VALUES ('BUILDING_LEANING_TOWER', 'GREAT_PERSON_CLASS_ENGINEER', '2');
-
-
--- +1 Trade Route
-INSERT INTO Modifiers (ModifierId, ModifierType) VALUES ('LEANING_TOWER_ADDTRADEROUTE', 'MODIFIER_PLAYER_ADJUST_TRADE_ROUTE_CAPACITY');
-
-INSERT INTO ModifierArguments (ModifierId, Name, Value) VALUES ('LEANING_TOWER_ADDTRADEROUTE', 'Amount', '1');
-
-INSERT INTO BuildingModifiers (BuildingType, ModifierId) VALUES ('BUILDING_LEANING_TOWER', 'LEANING_TOWER_ADDTRADEROUTE');
-
-
 -- +25% combat experience for all naval units trained in this city
 INSERT INTO RequirementSets (RequirementSetId, RequirementSetType)
 VALUES ('LEANING_TOWER_SEA_REQUIREMENTS', 'REQUIREMENTSET_TEST_ALL');

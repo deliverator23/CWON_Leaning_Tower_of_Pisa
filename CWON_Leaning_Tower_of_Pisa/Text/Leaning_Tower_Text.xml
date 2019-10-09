@@ -5,7 +5,7 @@
 			<Text>Leaning Tower of Pisa</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_LEANING_TOWER_DESCRIPTION" Language="en_US">
-			<Text>Harbors receive +1.5 Gold from each adjacent District. +25% combat experience for all Naval units trained in this city. +1 Trade Route. +100% Tourism pressure from this city towards other civilizations starting from the Modern Era. Requires Harbor and must be built next to City Center.</Text>
+			<Text>Harbors receive +1.5 Gold from each adjacent District. +25% combat experience for all Naval units trained in this city. +100% Tourism pressure from this city towards other civilizations starting from the Modern Era. Requires Harbor and must be built next to City Center.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_LEANING_TOWER_QUOTE" Language="en_US">
 			<Text>"Nature is relentless and unchangeable, and it is indifferent as to whether its hidden reasons and actions are understandable to man or not."[NEWLINE]- Galileo Galilei</Text>
