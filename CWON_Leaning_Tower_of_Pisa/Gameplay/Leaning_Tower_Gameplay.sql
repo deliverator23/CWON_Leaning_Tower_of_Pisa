@@ -4,6 +4,15 @@ INSERT INTO Types (Type, Kind) VALUES ('BUILDING_LEANING_TOWER', 'KIND_BUILDING'
 INSERT INTO Buildings (BuildingType, Name, Description, PrereqTech, PrereqDistrict, AdjacentDistrict, Cost, AdvisorType, MaxWorldInstances, IsWonder, RequiresPlacement, Quote)
 VALUES ('BUILDING_LEANING_TOWER', 'LOC_BUILDING_LEANING_TOWER_NAME', 'LOC_BUILDING_LEANING_TOWER_DESCRIPTION', 'TECH_CARTOGRAPHY', 'DISTRICT_HARBOR', 'DISTRICT_CITY_CENTER', 920, 'ADVISOR_CULTURE', '1', 1, 1, 'LOC_BUILDING_LEANING_TOWER_QUOTE');
 
+INSERT INTO Building_ValidTerrains (BuildingType, TerrainType)
+VALUES
+  (
+    'BUILDING_LEANING_TOWER', 'TERRAIN_GRASS'
+  ),
+  (
+    'BUILDING_LEANING_TOWER', 'TERRAIN_PLAINS'
+  );
+
 
 INSERT INTO Building_YieldChanges (
   BuildingType, YieldType, YieldChange
