@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_BUILDING_LEANING_TOWER_NAME" Language="it_IT">
+			<Text>Torre Pendente di Pisa</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_LEANING_TOWER_DESCRIPTION" Language="it_IT">
+			<Text>I Porti ricevono +1.5 d'Oro da ogni distretto adiacente. +25% esperienza di combattimento per tutte le unità Navali addestrate in questa città. +100% pressione del Turismo da questa città verso le altre civiltà partendo dall'epoca moderna. Richiede un Porto e deve essere costruita accanto ad un Centro Cittadino.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_LEANING_TOWER_QUOTE" Language="it_IT">
+			<Text>"La Natura è implacabile e immutabile, ed è indifferente se le sue ragioni e azioni siano comprensibili all'uomo o meno."[NEWLINE]- Galileo Galilei</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_LEANING_TOWER_CHAPTER_HISTORY_PARA_1" Language="it_IT">
+			<Text>La Torre Pendente di Pisa è il campanile della cattedrale della città Italiana di Pisa, conosciuta in tutto il mondo per la sua inclinazione di 4 gradi causata da delle fondamenta instabili. La torre è situata dietro alla Cattedrale di Pisa ed è la terza struttura più antica della piazza della cattedrale nella città (Piazza del Duomo), dopo la cattedrale ed il Battistero di Pisa.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_LEANING_TOWER_CHAPTER_HISTORY_PARA_2" Language="it_IT">
+			<Text>L'inclinazione della torre iniziò durante la costruzione nel 12° secolo, a causa del terrno troppo soffice da un lato, che non è stato in grado di supportare correttamente il peso della struttura. L'inclinazione aumentò nei decenni prima che la struttura fosse completata nel 14° secolo. Aumentò gradualmente fino a quando la struttura non fu stabilizzata (e l'inclinazione parzialmente corretta) dagli sforzi compiuti tra la fine del XX e l'inizio del XXI secolo.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_LEANING_TOWER_CHAPTER_HISTORY_PARA_3" Language="it_IT">
+			<Text>L'altezza della torre è di 55,86 metri da terra dal lato basso e di 56,67 metri dal lato alto. La larghezza delle pareti alla base è di 2,44 m. Il suo peso stimato è di 14.500 tonnellate. La torre ha 296 o 294 gradini; il settimo piano ha due gradini in meno sulla scala esposta a nord. Nel 1990 la torre era inclinata ad un angolo di 5,5 gradi, ma a seguito di lavori di riparazione tra il 1993 e il 2001 questa fu ridotta a 3,97 gradi, riducendo lo sbalzo di 45 cm ad un costo di £ 200m. Ha perso altri 4 cm di inclinazione nei due decenni fino al 2018.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_LEANING_TOWER_CHAPTER_HISTORY_PARA_4" Language="it_IT">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_LEANING_TOWER_HARBOR_DISTRICT_GOLD" Language="it_IT">
+			<Text>+{1_num} [ICON_Gold] d'Oro dai {1_Num : plural 1?distretto adiacente; other?distretti adiacenti;} (Torre Pendente di Pisa).</Text>
+		</Row>
+	</LocalizedText>
+</GameData>
